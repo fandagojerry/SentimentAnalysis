@@ -1,4 +1,3 @@
 # SentimentAnalysis
-SentimentAnalysisOnTweeterData
-Written in Python
-Html film exported from Jupyter Notebook
+## Written in Python.
+## Html file exported from Jupyter Notebook
